@@ -50,7 +50,7 @@ describe("Manage Course", function(){
             .end(done);
     });
     
-})
+});
 
 
 /*
